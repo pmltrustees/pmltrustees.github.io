@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://PollardMemorialLibraryTrustees.github.io/sitemap.xml
+Sitemap: https://pmltrustees.github.io/sitemap.xml

@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>https://PollardMemorialLibraryTrustees.github.io/</loc>
+        <loc>https://pmltrustees.github.io/</loc>
+    </url>
+    <url>
+        <loc>https://pmltrustees.github.io/meeting/</loc>
+    </url>
+    <url>
+        <loc>https://pmltrustees.github.io/meeting/20211006/</loc>
+        <lastmod>2021-10-06</lastmod>
     </url>
 </urlset>
